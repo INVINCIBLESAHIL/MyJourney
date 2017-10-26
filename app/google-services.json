@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "766571837066",
+    "firebase_url": "https://myjourney-7d31f.firebaseio.com",
+    "project_id": "myjourney-7d31f",
+    "storage_bucket": "myjourney-7d31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766571837066:android:180cdb3947705ea4",
+        "android_client_info": {
+          "package_name": "com.example.gauravmalik.myjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766571837066-lcqkg270nfkrf6grtge462sqdi5ddj9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccxFLBM6CZK98UbvjYXMoWzNN2LTpLMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
